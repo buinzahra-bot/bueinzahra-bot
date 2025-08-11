@@ -1,0 +1,5 @@
+# config.py
+BOT_TOKEN = "8240862819:AAG9oe2Et8GTgpyXa-onwhHQbluq8Ut2XXQ"
+ADMIN_ID = 1584127059
+DATA_FOLDER = "data"
+SCORE_FILE = "scores.json"
